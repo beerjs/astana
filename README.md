@@ -1,0 +1,2 @@
+# astana
+BeerJS: Astana, Kazakhstan
