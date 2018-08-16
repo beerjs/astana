@@ -1,6 +1,7 @@
 # BeerJS Astana
 
 [![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://telegram.me/beerjsastana)
+
 https://www.meetup.com/ru-RU/BeerJS-Astana/
 
 ## Releases
