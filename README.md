@@ -12,3 +12,4 @@ https://www.meetup.com/ru-RU/BeerJS-Astana/
 | 2       | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                 | 12 July 2018      |
 | 3       | [Please Don’t Tell (PDT)](http://go.2gis.com/if8j22)                            | 2 August 2018     |
 | 4       | [Millennium — Restaurant & Craft Beer Bar](https://millenniumbar.kz/)           | 16 August 2018    |
+| 5       | [HARAT'S Irish Pub](https://astana.restoran.kz/pub/84688-harat-s)               | 28 August 2018    |
