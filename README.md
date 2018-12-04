@@ -16,3 +16,4 @@ https://www.meetup.com/ru-RU/BeerJS-Astana/
 | 6       | [Leprechaun](https://redtable.kz/leprechaun/) - афтепати [AstanaJS](https://www.facebook.com/events/304756690289447/) | 13 September 2018 |
 | 7       | [Local Pub](http://highvill.local-pub.kz/)                                                                            | 11 October 2018   |
 | 8       | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                       | 1 November 2018   |
+| 9       | [Lopata bar](https://www.instagram.com/lopata.bar/)                                                                   | 6 December 2018   |
