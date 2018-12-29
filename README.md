@@ -6,14 +6,15 @@ https://www.meetup.com/ru-RU/BeerJS-Astana/
 
 ## Releases
 
-| Version | Place                                                                                                                 | Date              |
-| ------- | --------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| 1       | [404 bar not found](https://www.instagram.com/404barnotfound/)                                                        | 23 June 2018      |
-| 2       | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                       | 12 July 2018      |
-| 3       | [Please Don’t Tell (PDT)](http://go.2gis.com/if8j22)                                                                  | 2 August 2018     |
-| 4       | [Millennium — Restaurant & Craft Beer Bar](https://millenniumbar.kz/)                                                 | 16 August 2018    |
-| 5       | [HARAT'S Irish Pub](https://astana.restoran.kz/pub/84688-harat-s)                                                     | 28 August 2018    |
-| 6       | [Leprechaun](https://redtable.kz/leprechaun/) - афтепати [AstanaJS](https://www.facebook.com/events/304756690289447/) | 13 September 2018 |
-| 7       | [Local Pub](http://highvill.local-pub.kz/)                                                                            | 11 October 2018   |
-| 8       | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                       | 1 November 2018   |
-| 9       | [Lopata bar](https://www.instagram.com/lopata.bar/)                                                                   | 6 December 2018   |
+| Version | Place                                                                                                                    | Date              |
+| ------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| 1       | [404 bar not found](https://www.instagram.com/404barnotfound/)                                                           | 23 June 2018      |
+| 2       | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 12 July 2018      |
+| 3       | [Please Don’t Tell (PDT)](http://go.2gis.com/if8j22)                                                                     | 2 August 2018     |
+| 4       | [Millennium — Restaurant & Craft Beer Bar](https://millenniumbar.kz/)                                                    | 16 August 2018    |
+| 5       | [HARAT'S Irish Pub](https://astana.restoran.kz/pub/84688-harat-s)                                                        | 28 August 2018    |
+| 6       | [Leprechaun](https://redtable.kz/leprechaun/) - афтепати [AstanaJS](https://www.facebook.com/events/304756690289447/)    | 13 September 2018 |
+| 7       | [Local Pub](http://highvill.local-pub.kz/)                                                                               | 11 October 2018   |
+| 8       | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 1 November 2018   |
+| 9       | [Lopata bar](https://www.instagram.com/lopata.bar/)                                                                      | 6 December 2018   |
+| 10      | [PINTA bar & grill](https://2gis.kz/astana/firm/70000001034241483?queryState=center%2F71.419045%2C51.114178%2Fzoom%2F17) | 3 January 2019    |
