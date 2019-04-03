@@ -20,3 +20,4 @@ https://www.meetup.com/ru-RU/BeerJS-Astana/
 | 10      | [PINTA bar & grill](https://2gis.kz/astana/firm/70000001034241483?queryState=center%2F71.419045%2C51.114178%2Fzoom%2F17) | 3 January 2019    |
 | 11      | [Ocean Bear](https://2gis.kz/astana/firm/70000001028472481?queryState=center%2F71.463318%2C51.128509%2Fzoom%2F16)        | 14 February 2019  |
 | 12      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 7 March 2019      |
+| 13      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 4 April 2019      |
