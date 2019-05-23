@@ -21,3 +21,4 @@ https://www.meetup.com/ru-RU/BeerJS-Astana/
 | 11      | [Ocean Bear](https://2gis.kz/astana/firm/70000001028472481?queryState=center%2F71.463318%2C51.128509%2Fzoom%2F16)        | 14 February 2019  |
 | 12      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 7 March 2019      |
 | 13      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 4 April 2019      |
+| 14      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 23 May 2019       |
