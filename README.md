@@ -22,3 +22,4 @@ https://www.meetup.com/ru-RU/BeerJS-Astana/
 | 12      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 7 March 2019      |
 | 13      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 4 April 2019      |
 | 14      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 23 May 2019       |
+| 15      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 18 July 2019      |
