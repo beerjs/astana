@@ -30,3 +30,4 @@ https://www.meetup.com/ru-RU/BeerJS-Astana/
 | 20      | [Fuller's Pub](https://www.instagram.com/fullers_pub/)                                                                   | 12 March 2020     |
 | 21      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 1 October 2020    |
 | 22      | [Первый IT BAR в Казахстане - khs.hub](https://www.instagram.com/khs.hub/)                                               | 7 October 2021    |
+| 23      | [The HOP: beer & cider](https://www.instagram.com/the_hop_bar/)                                                          | 19 May 2022       |
